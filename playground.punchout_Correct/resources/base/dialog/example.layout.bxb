@@ -1,0 +1,23 @@
+layout
+{
+  match: Content (this)
+  mode (Details)
+
+  content
+  {
+    section
+    {
+      content
+      {
+        attribution-link
+        {
+          label
+          {
+            template ("testing a link")
+          }
+          url ("https://www.google.com/")
+        }
+      }
+    }
+  }
+}

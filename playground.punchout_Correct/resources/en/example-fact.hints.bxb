@@ -1,0 +1,7 @@
+hints {
+  uncategorized {
+     hint (With punchout test, Tell me a fact)
+     hint (start punchout test)
+     hint (using punchout test, begin)
+  }
+}
