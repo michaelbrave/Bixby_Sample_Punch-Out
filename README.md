@@ -24,3 +24,5 @@ https://bixbydevelopers.com/dev/docs/dev-guide/design-guides/design-principles.u
 https://stackoverflow.com/questions/57354598/how-can-i-implement-this-punch-out-from-bixby-to-android-app  
 
 https://bixbydevelopers.com/dev/docs/reference/type/result-view.app-launch.payload-uri  
+
+https://bixbydevelopers.com/dev/docs/reference/type/result-view  
