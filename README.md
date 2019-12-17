@@ -5,11 +5,11 @@ For Bixby Developers.
 There are times when you need to leave Bixby, either to a website, another app, or for some other reason. There are correct and incorrect ways to do this, and as a rule of thumb the basic idea behind what is correct or not is that "as long as it communicates properly to the user that this would make them leave" then it is probably ok. So that's what this is about, clarity of intent for the user.  
 
 The Correct punchout shown in the correct example uses what's called an attribution link, this is not misleading to the user as it clearly shows with it's icon that this would leave bixby.  
-![the correct way to use a punchout](https://github.com/michaelbrave/Bixby_Sample_Punch-Out/blob/master/correct.png)
+![the correct way to use a punchout](https://github.com/michaelbrave/Bixby_Sample_Punch-Out/blob/master/correct.png) | width="200" height="400"
 
 The Incorrect Punchout used in the incorrect example uses an onclick and a results-view workaround. This is misleading to the user as they would expect the image click to zoom in and not take them outside of bixby.  
-![the incorrect way to use a punchout](https://github.com/michaelbrave/Bixby_Sample_Punch-Out/blob/master/incorrect1.png)
-![the incorrect way to use a punchout](https://github.com/michaelbrave/Bixby_Sample_Punch-Out/blob/master/incorrect2.png)
+![the incorrect way to use a punchout](https://github.com/michaelbrave/Bixby_Sample_Punch-Out/blob/master/incorrect1.png) | width="200" height="400"
+![the incorrect way to use a punchout](https://github.com/michaelbrave/Bixby_Sample_Punch-Out/blob/master/incorrect2.png) | width="200" height="400"
 
 This is to show examples of the correct use of a punch-out component and an incorrect one. Each is stored as a seperate project to be used as example code to look at.  
 
