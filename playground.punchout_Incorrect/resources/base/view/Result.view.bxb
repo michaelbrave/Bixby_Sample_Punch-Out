@@ -3,6 +3,7 @@ result-view {
 
   app-launch {
     payload-uri("#{value(this)}")
+    
   }
 
   render {

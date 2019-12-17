@@ -25,6 +25,7 @@ layout
 					on-click {
             intent { 
 							goal: LaunchDefinedUri
+							value: LaunchUri$expr(this.text)
             }
           }
 				}

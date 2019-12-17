@@ -3,6 +3,6 @@ module.exports = {
 }
 
 function LaunchDefinedUri(LaunchUri) {
-  launchUri = "google.com"
-  return (launchUri)
+  // launchUri = "google.com"
+  return LaunchUri
 }
