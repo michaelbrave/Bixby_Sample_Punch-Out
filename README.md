@@ -7,7 +7,7 @@ There are times when you need to leave Bixby, either to a website, another app, 
 The Correct punchout shown in the correct example uses what's called an attribution link, this is not misleading to the user as it clearly shows with it's icon that this would leave bixby.  
 <img src="https://github.com/michaelbrave/Bixby_Sample_Punch-Out/blob/master/correct.png" width="200" height="400">
 
-The Incorrect Punchout used in the incorrect example uses an onclick and a results-view workaround. This is misleading to the user as they would expect the image click to zoom in and not take them outside of bixby.  
+The Incorrect Punchout used in the incorrect example uses an onclick and a results-view workaround. This is misleading to the user as the user would not expect the image click take them out of bixby.    
 <img src="https://github.com/michaelbrave/Bixby_Sample_Punch-Out/blob/master/incorrect1.png" width="200" height="400">
 <img src="https://github.com/michaelbrave/Bixby_Sample_Punch-Out/blob/master/incorrect2.png" width="200" height="400">
 
