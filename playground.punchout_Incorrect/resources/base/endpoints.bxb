@@ -1,0 +1,12 @@
+endpoints {
+  action-endpoints {
+    action-endpoint (GetContent) {
+      accepted-inputs (searchTerm)
+      local-endpoint (GetContent.js)
+    }
+    action-endpoint (LaunchDefinedUri) {
+      accepted-inputs (LaunchUri)
+      local-endpoint (launchUri.js)
+    }
+  }
+}

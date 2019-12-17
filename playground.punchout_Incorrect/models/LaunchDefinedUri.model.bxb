@@ -1,0 +1,11 @@
+action (LaunchDefinedUri) {
+  description (Launches the defined uri)
+  type (Commit)
+  collect {
+    input (LaunchUri) {
+      type (LaunchUri)
+      min (Required) max (One)
+    }
+  }
+  output (LaunchUri)
+}

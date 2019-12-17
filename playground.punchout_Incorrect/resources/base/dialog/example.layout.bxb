@@ -1,0 +1,34 @@
+layout
+{
+	match: Content (this)
+	mode (Details)
+	
+	content
+	{
+		section
+		{
+			content
+			{
+				image-card
+				{
+					title-area
+					{
+						slot1
+						{
+							text
+							{
+								value ("This is a test")
+								style (Title_M)
+							}
+						}
+					}
+					on-click {
+            intent { 
+							goal: LaunchDefinedUri
+            }
+          }
+				}
+			}
+		}
+	}
+}

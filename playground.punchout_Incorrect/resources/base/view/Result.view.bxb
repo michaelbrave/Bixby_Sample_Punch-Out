@@ -1,0 +1,11 @@
+result-view {
+  match: LaunchUri(this)
+
+  app-launch {
+    payload-uri("#{value(this)}")
+  }
+
+  render {
+    nothing
+  }
+}

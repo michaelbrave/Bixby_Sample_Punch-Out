@@ -1,0 +1,12 @@
+capsule-info {
+  display-name (punchout test)
+  developer-name (Brave)
+  icon-asset (images/icons/bixby_launcher.png)
+  description ("This is a capsule to show how to do punchouts correctly and incorrectly")
+  //website-url (https://bixbydevelopers.com/)
+  search-keywords {
+    keyword (test)
+    keyword (punchout)
+  }
+  dispatch-name (punchout test)
+}
