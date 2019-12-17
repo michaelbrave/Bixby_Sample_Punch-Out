@@ -26,3 +26,5 @@ https://stackoverflow.com/questions/57354598/how-can-i-implement-this-punch-out-
 https://bixbydevelopers.com/dev/docs/reference/type/result-view.app-launch.payload-uri  
 
 https://bixbydevelopers.com/dev/docs/reference/type/result-view  
+
+https://stackoverflow.com/questions/55698017/how-do-i-have-bixby-use-app-launch-to-open-google-maps/55817611#55817611  
