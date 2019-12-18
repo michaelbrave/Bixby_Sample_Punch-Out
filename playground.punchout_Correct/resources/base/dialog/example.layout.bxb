@@ -13,7 +13,7 @@ layout
         {
           label
           {
-            template ("testing a link")
+            template ("This is a test")
           }
           url ("https://www.google.com/")
         }
