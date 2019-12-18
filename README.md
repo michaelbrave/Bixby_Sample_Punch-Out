@@ -2,18 +2,18 @@
 
 For Bixby Developers.  
 
-There are times when you need to leave Bixby, either to a website, another app, or for some other reason. There are correct and incorrect ways to do this, and as a rule of thumb the basic idea behind what is correct or not is that "as long as it communicates properly to the user that this would make them leave" then it is probably ok. So that's what this is about, clarity of intent for the user.  
+The Problem: You need to leave bixby and go to a website. There is a right and a wrong way to do this.  
 
-These are to show examples of the correct use of a punch-out component and an incorrect one. Each is stored as a seperate project to be used as example code.  
+Vocabulary: Things that leave the app are called a punch-out.  
 
-The Correct punchout shown in the correct example uses what's called an attribution link, this is not misleading to the user as it clearly shows with it's icon that this would leave bixby.  
-<img src="https://github.com/michaelbrave/Bixby_Sample_Punch-Out/blob/master/correct.png" width="200" height="400">
+Reasoning: As a rule of thumb we are trying to communicate to the user that this will exit bixby and not be misleading.  
 
-The Incorrect Punchout used in the incorrect example uses an onclick and a results-view workaround. This is misleading to the user as the user would not expect the image click take them out of bixby.    
+The Incorrect Example: Uses an onclick and a results-view workaround. This is misleading to the user as the user would not expect the image click take them out of bixby.    
 <img src="https://github.com/michaelbrave/Bixby_Sample_Punch-Out/blob/master/incorrect1.png" width="200" height="400">
 <img src="https://github.com/michaelbrave/Bixby_Sample_Punch-Out/blob/master/incorrect2.png" width="200" height="400">
 
-
+The Correct Example: Uses what's called an attribution link, this is not misleading to the user as it clearly shows with it's icon that this would leave bixby.  
+<img src="https://github.com/michaelbrave/Bixby_Sample_Punch-Out/blob/master/correct.png" width="200" height="400">
 
 Resources that may be useful:  
 
