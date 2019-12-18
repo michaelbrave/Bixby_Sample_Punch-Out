@@ -9,7 +9,7 @@
 **Reasoning:** As a rule of thumb we are trying to communicate to the user that this will exit bixby and not be misleading.  
 
 **The Incorrect Example:** Uses an onclick and a results-view workaround. This is misleading to the user as the user would not expect the image click take them out of bixby.    
-<img src="https://github.com/michaelbrave/Bixby_Sample_Punch-Out/blob/master/incorrect1.png" width="200" height="400">
+<img style="padding: 10px; src="https://github.com/michaelbrave/Bixby_Sample_Punch-Out/blob/master/incorrect1.png" width="200" height="400">
 <img src="https://github.com/michaelbrave/Bixby_Sample_Punch-Out/blob/master/incorrect2.png" width="200" height="400">
 
 **The Correct Example:** Uses what's called an attribution link, this is not misleading to the user as it clearly shows with it's icon that this would leave bixby.  
